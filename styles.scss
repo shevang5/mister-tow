@@ -178,7 +178,7 @@ header {
 // Hero Section
 .hero {
   height: 100vh;
-  background: linear-gradient(rgba($secondary-color, 0.2), rgba($secondary-color, 0.7)), url('images/bgimg.jpeg') no-repeat center center/cover;
+  background: linear-gradient(rgba($secondary-color, 0.2), rgba($secondary-color, 0.7)), url('./images/bgimg.jpeg') no-repeat center center/cover;
   display: flex;
   align-items: center;
   text-align: center;
